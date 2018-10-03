@@ -9,7 +9,7 @@ Most of the configuration is defined in the **src/main/webapp/WEB-INF/web.xml** 
 
 A specific logout application url is available at: http://localhost:8080/logout.jsp.
 
-Run your CAS server on https://localhost:9443/cas.
+Run your CAS server on http://localhost:9443/cas.
 
 
 mvn clean package  jetty:run
